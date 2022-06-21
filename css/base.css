@@ -1,0 +1,38 @@
+body {
+    display: flex;
+}
+.logofon {
+    position: relative;
+}
+.logotipPUMA {
+    width: 94px;
+height: 44px;
+margin-top: 47px;
+margin-left: 230px;
+}
+.fon {
+  
+width: 1188px;
+height: 649px;
+margin-top: -94px;
+
+background: linear-gradient(90deg, #EE5514 1.14%, rgba(238, 85, 20, 0) 133.88%);
+opacity: 0.1;
+}
+.kvadratkedi {
+    position: relative;
+}
+.kvadrat {
+    box-sizing: border-box;
+width: 394px;
+height: 400px;
+border: 11px solid #EE5514;
+margin-top: 150px;
+margin-left: -300px;
+opacity: 0.4;
+}
+.krasniekediPUMA {
+    margin-top: -500px;
+    margin-left: -420px;
+
+}
