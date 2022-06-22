@@ -1,79 +1,91 @@
-body {
-    display: flex;
-}
+
 a {
     text-decoration: none;
     color: #EE5514;
 }
-
-.logofon {
-    
+p strong {
+   font-size: 61px;
+   position: absolute;
+   margin-top: -450px;
+   margin-left: 230px;
 }
+ h2 {
+color: #0e0d0d;
+opacity: 0.7;
+font-size: 16px;
+margin-left: 230px;
+margin-top: -240px;
+}
+
 .logotipPUMA {
-    width: 94px;
+position: absolute;
+width: 94px;
 height: 44px;
 margin-top: 47px;
 margin-left: 230px;
 }
-/* .fon {
-  
+.fon {
+    position: relative;
 width: 1188px;
 height: 649px;
-margin-top: 339px;
 background: linear-gradient(90deg, #EE5514 1.14%, rgba(238, 85, 20, 0) 133.88%);
 opacity: 0.1;
-} */
+}
 a.knopka {
+    position: absolute;
     color: #fff; /* цвет текста */
     text-decoration: none; /* убирать подчёркивание у ссылок */
     background: rgb(212,75,56); /* фон кнопки */
     padding: 23px 45px; /* отступ от текста */
     border-radius: 3px;
-    margin-top: -10px;
-    margin-left: 1000px;
+    margin-top: 40px;
+    margin-left: 1233px;
     font-size: 20px;
   } 
   a.knopka:hover { background: rgb(232,95,76); } 
   a.knopka:active { background: rgb(152,15,0); } 
 .textlogo1  {
+    position: absolute;
     display: flex;
     font-size: 21px;
-    margin-left: 380px;
-    margin-top: -30px; 
+    margin-left: 425px;
+    margin-top: 56px; 
 }
 .textlogo2  {
+    position: absolute;
     display: flex;
     font-size: 21px;
-    margin-left: 500px;
-    margin-top: -22px; 
+    margin-left: 510px;
+    margin-top: 56px; 
 }
 .textlogo3  {
+    position: absolute;
     display: flex;
     font-size: 21px;
-    margin-left: 620px;
-    margin-top: -22px; 
+    margin-left: 598px;
+    margin-top: 56px; 
 }
 .textlogo4  {
+    position: absolute;
     display: flex;
     font-size: 21px;
-    margin-left: 740px;
-    margin-top: -22px; 
+    margin-left: 699px;
+    margin-top: 56px; 
 }
 
-/* .kvadrat {
+ .kvadrat {
+    position: absolute;
     box-sizing: border-box;
 width: 394px;
 height: 400px;
 border: 11px solid #EE5514;
-margin-top: 450px;
-margin-left: -300px;
+margin-top: -500px;
+margin-left: 867px;
 opacity: 0.4;
 
 }
 .krasniekediPUMA {
-    position: relative;
-    margin-top: -600px;
-    margin-left: -420px;
-    
-
-} */
+    position: absolute;
+    margin-left: 745px;
+    margin-top: -500px;
+} 
