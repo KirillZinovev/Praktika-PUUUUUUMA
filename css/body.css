@@ -19,6 +19,9 @@ h2 {
   margin-top: -200px;
   font-family: poppins, sans-serif;
 }
+.body {
+  display: flex;
+}
 
 .body__fon {
   width: 1188px;
@@ -38,22 +41,30 @@ h2 {
   width: 394px;
   height: 400px;
   border: 11px solid #ee5514;
-  margin-top: -500px;
+  margin-top: -450px;
   margin-left: 867px;
   opacity: 0.4;
 }
-.krasniekediPUMA {
+.body__krasniekediPUMA {
   position: absolute;
   margin-left: 745px;
-  margin-top: -500px;
+  margin-top: -450px;
 }
 .body__kvadrat td {
-  width: 10px;
-  height: 10px;
-
+  width: 15px;
+  height: 15px;
   background: radial-gradient(
     circle,
-    rgba(238, 85, 20, 0.1) 45%,
+    rgba(238, 85, 20, 0.267) 45%,
     transparent 50%
   );
+}
+.body__oval {
+  width: 389px;
+height: 89px;
+background: rgba(0, 0, 0, 0.3);
+filter: blur(10px);
+border-radius: 100px/50px;
+margin-top: 180px;
+margin-left: -10px;
 }

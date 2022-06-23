@@ -2,6 +2,8 @@ a {
   text-decoration: none;
   color: #ee5514;
   font-family: poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
 }
 .header__logo-wrapper {
   margin-left: 230px;
@@ -14,31 +16,24 @@ a {
   z-index: 1;
 }
 .header__knopki {
-  min-width: 480px;
+  min-width: 400px;
+  margin-left: -500px;
 }
 .header__spisok {
-  font-size: small;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin-left: 230px;
-  column-gap: 50px;
+  margin-left: 40px;
+  
 }
 .header__knopka {
   color: #fff;
   text-decoration: none; /* убирать подчёркивание у ссылок */
   background: rgb(212, 75, 56);
-  padding: 23px 45px; /* отступ от текста */
-  border-radius: 3px;
+  padding: 25px 30px; /* отступ от текста */
+  border-radius: 8px;
   font-size: 20px;
 }
-.header__spisok-ss {
-}
-
-.header__sp {
-}
-
-
 a.header__knopka:hover {
   background: rgb(232, 95, 76);
 }
