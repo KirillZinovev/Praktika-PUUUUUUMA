@@ -3,74 +3,45 @@ a {
   color: #ee5514;
   font-family: poppins, sans-serif;
 }
-.header__logo {
-  margin-top: 47px;
+.header__logo-wrapper {
   margin-left: 230px;
 }
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 47px;
+  z-index: 1;
+}
 .header__knopki {
+  min-width: 480px;
+}
+.header__spisok {
   font-size: small;
-  position: relative;
-  width: 420px;
-  height: 100px;
   display: flex;
   justify-content: space-around;
-  flex-direction: row;
-  align-items: flex-start;
-  font-family: "Oswald", sans-serif;
-  margin-left: 425px;
-  margin-top: -30px;
+  align-items: center;
+  margin-left: 230px;
+  column-gap: 50px;
 }
-
-.header__menu {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  color: #ee5514;
-  font-family: poppins, sans-serif;
-  font-weight: 500;
-}
-.header__about {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  color: #ee5514;
-  font-family: poppins, sans-serif;
-  font-weight: 500;
-}
-.header__feature {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  color: #ee5514;
-  font-family: poppins, sans-serif;
-  font-weight: 500;
-}
-.header__gallary {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  color: #ee5514;
-  font-family: poppins, sans-serif;
-  font-weight: 500;
-}
-a.knopka {
-  position: absolute;
-  margin-top: -120px;
+.header__knopka {
   color: #fff;
   text-decoration: none; /* убирать подчёркивание у ссылок */
   background: rgb(212, 75, 56);
   padding: 23px 45px; /* отступ от текста */
   border-radius: 3px;
   font-size: 20px;
-  margin-left: 1233px;
 }
-a.knopka:hover {
+.header__spisok-ss {
+}
+
+.header__sp {
+}
+
+
+a.header__knopka:hover {
   background: rgb(232, 95, 76);
 }
-a.knopka:active {
+a.header__knopka:active {
   background: rgb(152, 15, 0);
 }
