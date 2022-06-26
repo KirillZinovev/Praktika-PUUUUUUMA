@@ -1,9 +1,10 @@
 a {
   text-decoration: none;
-  color: #ee5514;
   font-family: poppins, sans-serif;
   font-size: 16px;
   font-weight: 500;
+  color: #1A0A03;
+
 }
 .header__logo-wrapper {
   margin-left: 230px;
@@ -26,17 +27,25 @@ a {
   margin-left: 40px;
   
 }
+.header__Buynow {
+  min-width: 120px;
+}
 .header__knopka {
   color: #fff;
   text-decoration: none; /* убирать подчёркивание у ссылок */
-  background: rgb(212, 75, 56);
+  background: #EE5514;
   padding: 25px 30px; /* отступ от текста */
   border-radius: 8px;
   font-size: 20px;
+  margin-left: -250px;
 }
 a.header__knopka:hover {
   background: rgb(232, 95, 76);
 }
 a.header__knopka:active {
   background: rgb(152, 15, 0);
+}
+.header__spisok a:hover {
+  color: #ee5514;
+
 }
