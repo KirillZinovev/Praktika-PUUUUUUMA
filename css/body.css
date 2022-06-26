@@ -115,10 +115,11 @@ margin-left: 230px;
 
 }
 
+
+
+
 .body2 {
   display: flex;
- 
-
 }
 .body2__slova {
   margin-top: 350px;
@@ -166,4 +167,23 @@ h3 {
   position: absolute;
   margin-top: 115px;
   margin-left: -325px;
+}
+
+
+.body3 {
+  display: flex;
+}
+.body3__slova {
+ 
+}
+.body3__FEATURE {
+  margin-left: 770px;
+  margin-top: 140px;
+
+}
+.body3__we_have{
+  margin-left: 525px;
+  font-family: "Source Serif Pro", serif;
+  font-size: 44px;
+  margin-top: 10px;
 }
