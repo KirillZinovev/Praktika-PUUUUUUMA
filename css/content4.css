@@ -1,0 +1,92 @@
+.content4 {
+    display: flex;
+    flex-direction: column;
+}
+.content4__blok1 {
+    display: flex;  
+}
+.content4__text {
+    display: flex;
+    flex-direction: column;
+}
+.content4__text__GALLARY p{
+    font-family: "Source Serif Pro", serif;
+    font-size: 20px;
+    color: #EE5514;
+    line-height: 30px;
+}
+.content4__text__40 {
+    font-family: "Source Serif Pro", serif;
+    font-size: 44px;
+    margin-top: 15px;
+}
+.content4__text__knopki {
+
+}
+.content4__strelki {
+    display: flex;
+    flex-direction: column;  
+}
+.content4__blok2 {
+    display: flex;
+}
+.content4__mini__blok1 {
+    display: flex;
+    flex-direction: column;
+}
+.content4__Puma__RS-X__Bold {
+}
+.content4__mini__text1 {
+    display: flex;
+    flex-direction: column;  
+}
+.content4__text__Puma__RS-X__Bold p{
+    line-height: 33px;
+    font-size: 22px;
+    font-family: "Source Serif Pro", serif;
+}
+.content4__mini__blok2 {
+    display: flex;
+    flex-direction: column;
+}
+.content4__mini__text2 {
+    display: flex;
+    flex-direction: column; 
+}
+.content4__text__Puma__Sneakers p{
+    line-height: 33px;
+    font-size: 22px;
+    font-family: "Source Serif Pro", serif;
+}
+.content4__Puma__Sneakers {
+}
+.content4__mini__blok3 {
+    display: flex;
+    flex-direction: column;
+}
+.content4__mini__text3 {
+    display: flex;
+    flex-direction: column; 
+}
+.content4__text__Puma__Ferrari p {
+    line-height: 33px;
+    font-size: 22px;
+    font-family: "Source Serif Pro", serif;
+}
+.content4__Puma__Ferrari {
+}
+.content4__mini__blok4 {
+    display: flex;
+    flex-direction: column;
+}
+.content4__mini__text4 {
+    display: flex;
+    flex-direction: column; 
+}
+.content4__text__Puma__Running p{
+    line-height: 33px;
+    font-size: 22px;
+    font-family: "Source Serif Pro", serif;
+}
+.content4__Puma__Running {
+}

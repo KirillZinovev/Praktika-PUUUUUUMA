@@ -1,0 +1,123 @@
+.content3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .content3__FEATURE {
+    margin-left: 770px;
+    margin-top: 140px;
+  }
+  .content3__we_have {
+    margin-left: 525px;
+    font-family: "Source Serif Pro", serif;
+    font-size: 44px;
+    margin-top: 10px;
+  }
+  .content3__bloki {
+    display: flex;
+    margin-left: 220px;
+    margin-top: 50px;
+
+}
+.content3__blok1 {
+    
+width: 360px;
+height: 423px;
+background: #FFFFFF;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+margin: 20px;
+}
+.content3__blok2 {
+width: 360px;
+height: 423px;
+background: #ee55141a;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+margin: 20px;
+}
+.content3__blok3 {
+width: 360px;
+height: 423px;
+background: #FFFFFF;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+margin: 20px;
+}
+.content3__vnutri__krug {
+    display: flex;
+    justify-content: center;
+}
+.content3__krug1 {
+width: 140px;
+height: 140px;
+border-radius: 50%;
+background: #1265e127;
+margin-top:56px;
+}
+.content3__krug2{
+    background: #602eea1a;
+    width: 140px;
+height: 140px;
+border-radius: 50%;
+margin-top:56px;
+}
+.content3__krug3 {
+background: #aa21ea18;
+width: 140px;
+height: 140px;
+border-radius: 50%;
+margin-top:56px;
+}
+.content3__zvezda {
+    z-index: 1;
+margin-left: 34px;
+margin-top: 35px;
+} 
+/* .content3__strelka{
+    z-index: 1;
+margin-left: 34px;
+margin-top: 35px;
+} */
+.content3__spedometr {
+    z-index: 1;
+    margin-left: 34px;
+    margin-top: 35px;  
+}
+.content3__text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40px;
+    
+}
+.content3__Quality p{
+    line-height: 33px;
+    font-size: 22px;
+    font-family: "Source Serif Pro", serif;
+    text-align: center;
+    
+}
+.content3__Lorem p {
+    max-width: 250px;
+    text-align: center;
+    margin-left: 55px;
+    line-height: 22.4px;
+    font-size: 14px;
+    font-family: poppins, sans-serif;
+    margin-top: 10px;
+}
+.content3__Read__more p{
+    color: #EE5514;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    line-height: 25.6px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.content3__strelka {
+    width: 4px;
+    height: 8px;
+    margin-left: 10px;
+
+}
