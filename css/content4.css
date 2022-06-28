@@ -1,92 +1,262 @@
 .content4 {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .content4__blok1 {
-    display: flex;  
+  display: flex;
+  margin-top: 100px;
+  margin-left: 210px;
 }
 .content4__text {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
-.content4__text__GALLARY p{
-    font-family: "Source Serif Pro", serif;
-    font-size: 20px;
-    color: #EE5514;
-    line-height: 30px;
+.content4__text__GALLARY p {
+  font-family: "Source Serif Pro", serif;
+  font-size: 20px;
+  color: #ee5514;
+  line-height: 30px;
 }
 .content4__text__40 {
-    font-family: "Source Serif Pro", serif;
-    font-size: 44px;
-    margin-top: 15px;
+  font-family: "Source Serif Pro", serif;
+  font-size: 44px;
+  margin-top: 15px;
 }
 .content4__text__knopki {
-
+  display: flex;
+  margin-top: 15px;
+}
+.content4__text__knopki p {
+  font-size: 20px;
+  line-height: 28px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+  color: rgb(66, 64, 64);
+}
+.content4__text__knopki h5 {
+  font-size: 20px;
+  line-height: 28px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+  color: rgb(66, 64, 64);
+  margin-left: 30px;
+}
+.content4__text__knopki h6 {
+  font-size: 20px;
+  line-height: 28px;
+  font-family: poppins, sans-serif;
+  font-weight: 400;
+  color: #ee5514;
+  margin-left: 30px;
+  text-decoration: underline;
 }
 .content4__strelki {
-    display: flex;
-    flex-direction: column;  
+  display: flex;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+.content4__krug1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ee55141a;
+}
+.content4__strelka__levo {
+  width: 50px;
+  height: 28px;
+  margin-left: -2px;
+  margin-top: 10px;
+}
+.content4__krug2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ee55141a;
+  margin-left: 50px;
+}
+.content4__strelka__pravo {
+  margin-left: 20px;
+  margin-top: 10px;
 }
 .content4__blok2 {
-    display: flex;
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  margin-top: 80px;
 }
 .content4__mini__blok1 {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
-.content4__Puma__RS-X__Bold {
-}
+
 .content4__mini__text1 {
-    display: flex;
-    flex-direction: column;  
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
 }
-.content4__text__Puma__RS-X__Bold p{
-    line-height: 33px;
-    font-size: 22px;
-    font-family: "Source Serif Pro", serif;
+.content4__text__Puma__RS-X__Bold p {
+  line-height: 33px;
+  font-size: 22px;
+  font-family: "Source Serif Pro", serif;
 }
+
+.content4__text__vnutri1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.content4__text__vnutri {
+  display: flex;
+  flex-direction: row;
+}
+.content4__text__vnutri p {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+}
+.content4__text__vnutri h4 {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
+}
+h4 {
+  margin-left: 10px;
+}
+.content4__text__Price1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.content4__text__Price1 p {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+}
+.content4__text__Price1 h4 {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
+}
+
 .content4__mini__blok2 {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .content4__mini__text2 {
-    display: flex;
-    flex-direction: column; 
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
 }
-.content4__text__Puma__Sneakers p{
-    line-height: 33px;
-    font-size: 22px;
-    font-family: "Source Serif Pro", serif;
+.content4__text__Puma__Sneakers p {
+  line-height: 33px;
+  font-size: 22px;
+  font-family: "Source Serif Pro", serif;
 }
-.content4__Puma__Sneakers {
+
+.content4__text__vnutri2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.content4__text__Price2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.content4__text__Price2 p {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+}
+.content4__text__Price2 h4 {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
 }
 .content4__mini__blok3 {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .content4__mini__text3 {
-    display: flex;
-    flex-direction: column; 
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
 }
 .content4__text__Puma__Ferrari p {
-    line-height: 33px;
-    font-size: 22px;
-    font-family: "Source Serif Pro", serif;
+  line-height: 33px;
+  font-size: 22px;
+  font-family: "Source Serif Pro", serif;
 }
-.content4__Puma__Ferrari {
+
+.content4__text__vnutri3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.content4__text__Price3 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.content4__text__Price3 p {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+}
+.content4__text__Price3 h4 {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
 }
 .content4__mini__blok4 {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .content4__mini__text4 {
-    display: flex;
-    flex-direction: column; 
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
 }
-.content4__text__Puma__Running p{
-    line-height: 33px;
-    font-size: 22px;
-    font-family: "Source Serif Pro", serif;
+.content4__text__Puma__Running p {
+  line-height: 33px;
+  font-size: 22px;
+  font-family: "Source Serif Pro", serif;
 }
-.content4__Puma__Running {
+
+.content4__text__vnutri4 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.content4__text__Price4 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.content4__text__Price4 p {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 300;
+}
+.content4__text__Price4 h4 {
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
+}
+.content4__knopka {
+  margin-left: 250px;
+  margin-top: 50px;
 }

@@ -6,7 +6,6 @@ body {
   flex-direction: column;
   margin-top: 100px;
   margin-left: 230px;
- 
 }
 .content__text p {
   font-size: 60px;
@@ -95,17 +94,15 @@ h2 {
   max-width: 792;
   align-items: center;
   justify-content: center;
-
 }
 .content__vnutri__polosa {
   display: flex;
   min-width: 600px;
   margin-top: -10px;
   margin-left: -100px;
-  
 }
 
-.content__brand p{
+.content__brand p {
   font-size: 16px;
   color: #1a0a03a4;
   font-family: poppins, sans-serif;
@@ -118,15 +115,15 @@ h2 {
   margin-left: 15px;
 }
 hr {
-  border: 1px solid #EE5514;
-transform: rotate(90deg);
-width: 42px;
-height: 0px;
-margin-left: 90px;
-margin-top: -30px;
+  border: 1px solid #ee5514;
+  transform: rotate(90deg);
+  width: 42px;
+  height: 0px;
+  margin-left: 90px;
+  margin-top: -30px;
 }
 
-.content__Person p{
+.content__Person p {
   font-size: 16px;
   color: #1a0a03a4;
   font-family: poppins, sans-serif;
@@ -139,7 +136,7 @@ margin-top: -30px;
   margin-left: 15px;
 }
 
-.content__Size p{
+.content__Size p {
   font-size: 16px;
   color: #1a0a03a4;
   font-family: poppins, sans-serif;
@@ -152,7 +149,7 @@ margin-top: -30px;
   margin-left: 15px;
 }
 
-.content__Price p{
+.content__Price p {
   font-size: 16px;
   color: #1a0a03a4;
   font-family: poppins, sans-serif;
@@ -165,7 +162,5 @@ margin-top: -30px;
   margin-left: 15px;
 }
 .content__knopka {
-  transform: translate(200px,-5px)
+  transform: translate(200px, -5px);
 }
-
-
