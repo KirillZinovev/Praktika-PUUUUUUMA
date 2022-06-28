@@ -29,9 +29,9 @@ a {
 }
 .header__knopka {
   color: #fff;
-  text-decoration: none; /* убирать подчёркивание у ссылок */
+  text-decoration: none;
   background: #ee5514;
-  padding: 20px 25px; /* отступ от текста */
+  padding: 20px 25px;
   border-radius: 8px;
   font-size: 20px;
   margin-left: -250px;

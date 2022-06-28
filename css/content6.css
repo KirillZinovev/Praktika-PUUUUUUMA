@@ -1,0 +1,61 @@
+.content6 {
+  display: flex;
+}
+.content6__blok {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 150px;
+}
+.content6__blok__blue {
+  display: flex;
+  background: #81a8da1c;
+
+  border-radius: 0px 10px 10px 0px;
+  width: 652px;
+  height: 334px;
+  margin-top: 29px;
+  margin-left: -30px;
+}
+.content6__blok__blue__vnutri {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.content6__text__Sign p {
+  font-size: 31px;
+  font-family: "Source Serif Pro", serif;
+  margin-top: 50px;
+}
+.content6__text__Lorem p {
+  font-size: 18px;
+  font-family: poppins, sans-serif;
+  color: rgba(66, 64, 64, 0.747);
+  max-width: 550px;
+  margin-top: 20px;
+  line-height: 28.8px;
+}
+.content6__pole {
+  width: 400px;
+  height: 20px;
+  padding: 15px 0 15px 40px;
+  border-radius: 5px 0px 0px 5px;
+  border: 2px solid rgba(128, 128, 128, 0.411);
+}
+.content6__blok2 {
+  display: flex;
+  margin-top: 50px;
+}
+.content6__knopka {
+  margin-top: 20px;
+  margin-left: -2px;
+}
+.content6__knopka__Send {
+  color: #fff;
+  text-decoration: none;
+  background: #ee5514;
+  padding: 16.5px 30px;
+  border-radius: 0px 5px 5px 0px;
+  font-size: 15px;
+  font-weight: 300;
+}

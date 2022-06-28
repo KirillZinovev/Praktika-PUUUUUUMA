@@ -3,11 +3,82 @@
   flex-direction: column;
 }
 .content5__text {
-  margin-top: 150px;
+  margin-top: 200px;
 }
 .content5__text p {
   font-size: 44px;
   text-align: center;
   font-weight: 600;
   font-family: "Source Serif Pro", serif;
+}
+.content5__blok {
+  display: flex;
+  margin-left: 230px;
+  margin-top: 100px;
+}
+.content5__vnutri__text {
+  margin-left: 130px;
+}
+.content5__vnutri__text__blok {
+  display: flex;
+  flex-direction: column;
+}
+.content5__img3 {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+.content5__vnutri__text__Their p {
+  font-size: 22px;
+  line-height: 33px;
+  font-family: "Source Serif Pro", serif;
+  margin-top: 10px;
+}
+.content5__vnutri__text__Lorem p {
+  font-size: 14px;
+  line-height: 22.4px;
+  font-style: italic;
+  font-family: poppins, sans-serif;
+  color: rgb(66, 64, 64);
+  max-width: 360px;
+  margin-top: 25px;
+}
+.content5__vnutri__text__Abram p {
+  font-size: 18px;
+  line-height: 28.8px;
+  font-family: poppins, sans-serif;
+  font-weight: 500;
+  margin-top: 25px;
+}
+.content5__vnutri__text__Athletic p {
+  font-size: 14px;
+  font-family: poppins, sans-serif;
+  color: rgb(66, 64, 64);
+  margin-top: 15px;
+}
+.content5__strelki {
+  display: flex;
+}
+.content5__krug1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ee55141a;
+}
+.content5__strelka__levo {
+  width: 50px;
+  height: 28px;
+  margin-left: -2px;
+  margin-top: 10px;
+}
+.content5__krug2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ee55141a;
+  margin-left: 50px;
+}
+.content5__strelka__pravo {
+  margin-left: 20px;
+  margin-top: 10px;
 }
