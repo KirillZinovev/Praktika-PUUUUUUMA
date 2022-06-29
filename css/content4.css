@@ -24,7 +24,7 @@
 }
 .content4__text__knopki {
   display: flex;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 .content4__text__knopki p {
   font-size: 20px;
@@ -32,6 +32,7 @@
   font-family: poppins, sans-serif;
   font-weight: 300;
   color: rgb(66, 64, 64);
+  margin-right: 10px;
 }
 .content4__text__knopki h5 {
   font-size: 20px;
@@ -49,11 +50,12 @@
   color: #ee5514;
   margin-left: 30px;
   text-decoration: underline;
+  padding: 0 30px 0 10px;
 }
 .content4__strelki {
   display: flex;
-  margin-left: 500px;
-  margin-top: 50px;
+  margin-left: 570px;
+  margin-top: 100px;
 }
 .content4__krug1 {
   width: 50px;
@@ -82,7 +84,7 @@
   display: flex;
   justify-content: center;
   margin-left: 40px;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 .content4__mini__blok1 {
   display: flex;

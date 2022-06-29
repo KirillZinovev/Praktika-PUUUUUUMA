@@ -14,8 +14,8 @@
     font-family: "Source Serif Pro", serif;
     font-size: 44px;
     margin-top: 15px;
-  
     line-height: 57.2px;
+    max-width: 400px;
   }
   .content2__Lorem {
     color: #0e0d0d;
@@ -24,10 +24,11 @@
     font-family: poppins, sans-serif;
     margin-top: 15px;
     line-height: 25.6px;
+    max-width: 400px;
   }
   .content2__foto {
-    margin-left: 245px;
-    margin-top: 250px;
+    margin-left: 250px;
+    margin-top: 280px;
   }
   .content2__foto_i_krug {
     margin-top: -280px;

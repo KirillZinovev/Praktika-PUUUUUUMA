@@ -58,6 +58,7 @@
 }
 .content5__strelki {
   display: flex;
+  margin-left: -60px;
 }
 .content5__krug1 {
   width: 50px;

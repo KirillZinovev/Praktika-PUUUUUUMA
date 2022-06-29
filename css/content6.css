@@ -41,6 +41,8 @@
   padding: 15px 0 15px 40px;
   border-radius: 5px 0px 0px 5px;
   border: 2px solid rgba(128, 128, 128, 0.411);
+  font-family: poppins, sans-serif;
+  font-size: 14px;
 }
 .content6__blok2 {
   display: flex;
@@ -58,4 +60,10 @@
   border-radius: 0px 5px 5px 0px;
   font-size: 15px;
   font-weight: 300;
+}
+a.content6__knopka__Send:hover {
+  background: rgb(192, 17, 17);
+}
+a.content6__knopka__Send:active {
+  background: rgb(152, 15, 0);
 }

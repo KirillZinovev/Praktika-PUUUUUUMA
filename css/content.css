@@ -7,6 +7,7 @@ body {
   margin-top: 100px;
   margin-left: 230px;
 }
+
 .content__text p {
   font-size: 60px;
   font-family: "Source Serif Pro", serif;
@@ -35,7 +36,7 @@ h2 {
 
 .content__fon {
   display: flex;
-  margin-top: -555px;
+  margin-top: -720px;
 }
 
 .content__kvadrat {
@@ -78,22 +79,22 @@ h2 {
   width: 55px;
   height: 55px;
   background: #ee551418;
-  margin-left: -120px;
-  margin-top: 250px;
+  margin-left: 50px;
+  margin-top: 240px;
 }
 .content__polosa {
-  position: absolute;
   width: 792px;
   height: 125px;
   background: #ffffff;
   box-shadow: 0px 1px 14px rgba(26, 10, 3, 0.096);
   border-radius: 5px;
   margin-top: 500px;
-  margin-left: 230px;
+  margin-left: -1145px;
   display: flex;
   max-width: 792;
   align-items: center;
   justify-content: center;
+  z-index: 1;
 }
 .content__vnutri__polosa {
   display: flex;
