@@ -82,6 +82,7 @@
 }
 .content4__blok2 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin-left: 40px;
   margin-top: 40px;
