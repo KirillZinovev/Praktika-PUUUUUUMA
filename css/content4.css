@@ -24,6 +24,7 @@
 }
 .content4__text__knopki {
   display: flex;
+  flex-wrap: wrap;
   margin-top: 25px;
 }
 .content4__text__knopki p {
